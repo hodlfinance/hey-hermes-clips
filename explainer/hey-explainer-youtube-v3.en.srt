@@ -1,0 +1,43 @@
+1
+00:00:00,300 --> 00:00:04,972
+Every tech giant now builds AI agents that read your email and act for you.
+
+2
+00:00:05,471 --> 00:00:06,649
+Whose agent is yours?
+
+3
+00:00:07,019 --> 00:00:09,134
+Hey Hermes is your personal assistant.
+
+4
+00:00:09,393 --> 00:00:14,908
+It keeps learning how you work — at work and in private — and gets things done across all your tools.
+
+5
+00:00:15,309 --> 00:00:21,203
+It runs on Hermes Agent, the most popular open-source agent. And it's just as easy as the big ones:
+
+6
+00:00:21,520 --> 00:00:23,256
+download the app, and you're ready to go.
+
+7
+00:00:23,477 --> 00:00:31,108
+It's as capable as xAI's Grok Bot, Meta's Muse or Google's Gemini Spark — and just as fast, or faster.
+
+8
+00:00:31,614 --> 00:00:37,345
+But it's better: you freely choose the model and the memory system, so you get the better package.
+
+9
+00:00:37,694 --> 00:00:41,229
+And you stay in control: it asks before it sends.
+
+10
+00:00:41,477 --> 00:00:47,704
+It lives on your own server, with full root access. And you can take your whole agent with you, any time.
+
+11
+00:00:48,249 --> 00:00:54,010
+Hey Hermes. No setup, no terminal — ready in seconds at heyhermes.app.
